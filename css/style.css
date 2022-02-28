@@ -53,3 +53,12 @@ h1 {
 li {
   font-size: 20px;
 }
+
+#iniziotabella {
+  background-color: rgb(32, 169, 229);
+  color: rgb(245, 251, 254);
+}
+
+table {
+  width: 2100px;
+}
