@@ -16,3 +16,16 @@ header {
 
 }
 
+h1 {
+  font-size: 30px;
+}
+
+.sottotitolo {
+  color: rgb(118, 118, 118);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.colore {
+  color: rgb(41, 173, 230);
+}
