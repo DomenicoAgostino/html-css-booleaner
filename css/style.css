@@ -29,3 +29,14 @@ h1 {
 .colore {
   color: rgb(41, 173, 230);
 }
+
+.tim {
+  width: 700px;
+  height: 500px;
+
+}
+
+.descrizione {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
