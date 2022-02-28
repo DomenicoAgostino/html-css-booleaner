@@ -40,3 +40,12 @@ h1 {
   font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.testo {
+  font-size: 20px;
+}
+
+.evidenziato {
+  background:rgb(223, 223, 0);
+
+}
